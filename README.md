@@ -98,7 +98,13 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbng
 2) splitter: randomly or best (overfitting issues)
 
 
+---------------------------------------------------------------------------------------------------------------------------------
 
+# Regression Tree
+
+# when to use regression tree : when you have non linear dataset
+
+![lind](https://user-images.githubusercontent.com/110124468/203465137-d5105ebe-26df-4b6a-91b0-f4271d1c90b2.png)
 
 
 
