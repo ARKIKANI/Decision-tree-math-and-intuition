@@ -1,7 +1,7 @@
 # Decision-tree-math-and-intuition
 
 
-what is Decision Tree?
+# what is Decision Tree?
 
 Decision tree is a hierarchical tree structure that can be used to split an extensive collection of records into smaller sets of the class by implementing a sequence of simple decision rules.
 - It also know as CART classification and regression trees
@@ -22,6 +22,7 @@ Decision tree is a hierarchical tree structure that can be used to split an exte
 # Example of Decision Tree Regressor
 
 ![RDT](https://user-images.githubusercontent.com/110124468/203447223-233c7dfd-b005-4226-b2b3-33d3b93aebda.png)
+
 
 # Geometric intuition
 ![DT3](https://user-images.githubusercontent.com/110124468/203447783-0de70a56-130b-46e1-85f5-c92eb8b24ac6.png)
@@ -89,7 +90,12 @@ This meaure the quality of a split.
 
 
 
+# Hyper parameters in Decision tree classifiers/regressor
 
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbngza0hWYTRwTHRMN1Z0MFNxRHRlWUFaY2lIZ3xBQ3Jtc0trZTRvMTg1QWlvVUg1bnd0MWNFQ3pVc0VuVlJEYnRDTXhqTldHd0dib29kcHY3eXR6cVlIWFNaeFotaW9RMHZOQWdIZUdkcGpaQ01iWGxzX1c5c2NWbHZwYjFTV09LTzJSZXN2YlZhU1JGbTFwbkY4QQ&q=https%3A%2F%2Fdt-visualise.herokuapp.com%2F&v=mDEV0Iucwz0
+
+1) Depth of the tree: max_depth=none overvfitting and unfitting if max_depth are less 
+2) splitter: randomly or best (overfitting issues)
 
 
 
